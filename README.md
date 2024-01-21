@@ -1,4 +1,4 @@
-# Projet Malware Omar Fegousse MCS LYN
+# Projet Malware Omar Fegousse MCS LYN ( OMIPSSIWARE212 )
 
 Ce Projet s'agit d'un programme client(victime)/serveur(pirate) permettant d'interagir avec un système distant et effectuer des actions malveillante . Le projet a été conçu pour illustrer divers concepts de création des malwares.
 
